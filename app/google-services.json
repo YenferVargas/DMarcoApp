@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "880571004951",
+    "project_id": "tecsupapplf",
+    "storage_bucket": "tecsupapplf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880571004951:android:81fa7856fd847fdec94452",
+        "android_client_info": {
+          "package_name": "com.tecsup.contadorpasos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880571004951-26gjnnro98f0bumq6cquuqpfp5ijik7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4n0oGWCuAkBiANWMSKqbEjsKhf_OoiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880571004951-26gjnnro98f0bumq6cquuqpfp5ijik7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880571004951:android:d213c5292f582c98c94452",
+        "android_client_info": {
+          "package_name": "com.tecsup.dmarcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880571004951-26gjnnro98f0bumq6cquuqpfp5ijik7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4n0oGWCuAkBiANWMSKqbEjsKhf_OoiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880571004951-26gjnnro98f0bumq6cquuqpfp5ijik7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

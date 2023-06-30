@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/drawable/shape_widget_border_grey.xml" value="0.1" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/layout/activity_platos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/layout/item_plato.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/layout/item_plato_2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp (1)/DMarcoApp/app/src/main/res/menu/menu.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.1" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.1835" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/drawable/shape_widget_border_grey.xml" value="0.1" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_platos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/d_marco__widget.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/d_marco_widget.xml" value="0.1" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/item_plato.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/layout/item_plato_2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Anita/Desktop/DMarcoApp2/DMarcoApp/DMarcoApp/app/src/main/res/xml/d_marco__widget_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.204" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.204" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/drawable/ic_baseline_bookmark_add_24.xml" value="0.204" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/drawable/shape_widget_border_grey.xml" value="0.204" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/activity_platos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/d_marco__widget.xml" value="0.5" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/d_marco_widget.xml" value="0.33" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/item_plato.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/item_plato_2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/layout/menu_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/menu/menu_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/menu/menu_main_drawer_2.xml" value="0.153125" />
+        <entry key="..\:/Users/Ismael/Downloads/DMarcoApp/DMarcoApp/app/src/main/res/menu/popup_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_phone_24.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_libros.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.34057971014492755" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_platos.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_platos_maqueta.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/dialog_libro.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/item_libro.xml" value="0.55" />
+        <entry key="app/src/main/res/layout/item_plato.xml" value="0.34057971014492755" />
+        <entry key="app/src/main/res/layout/item_plato_2.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.36041666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81493350524",
+    "project_id": "dmarcoapp-ceafe",
+    "storage_bucket": "dmarcoapp-ceafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81493350524:android:ea16d3a7ea36b42dbe11f9",
+        "android_client_info": {
+          "package_name": "com.tecsup.dmarcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81493350524-soiubo214gppuhns7incsmf0rfnn09ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwbq_JaQk64bdT1viFZTLndau8dIz594"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81493350524-soiubo214gppuhns7incsmf0rfnn09ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

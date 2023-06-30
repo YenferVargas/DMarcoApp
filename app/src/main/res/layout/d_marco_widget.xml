@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    android:theme="@style/Theme.DMarcoApp.AppWidgetContainerParent"
+    android:orientation="vertical"
+    android:background="@drawable/shape_widget_border_grey"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:src="@drawable/logomarco" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Somos una pastelería con más de 60 años, creando experiencias inolvidables en cada bocado. Te invitamos a disfrutar de la #ExperienciaDemarco."
+            android:textColor="@color/black"
+            android:textSize="12dp"
+            />
+        <ImageView
+            android:layout_marginStart="10dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

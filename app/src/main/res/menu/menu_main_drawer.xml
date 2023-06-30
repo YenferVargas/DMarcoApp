@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:title="">
+        <menu>
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"/>
+        </menu>
+    </item>
+    <item
+        android:title="">
+        <menu>
+    <item
+        android:id="@+id/cartabasica"
+        android:title="Carta Basica" />
+        </menu>
+    </item>
+    <item
+        android:title="">
+        <menu>
+    <item
+        android:id="@+id/cartapremium"
+        android:title="Carta premium" />
+        </menu>
+    </item>
+    <item
+        android:title="">
+        <menu>
+    <item
+        android:id="@+id/bebidas"
+        android:title="Bebidas" />
+        </menu>
+    </item>
+
+</menu>
